@@ -1,0 +1,70 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Final.com" resolutions="1x" timestamp="1556509232352">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="map.css" crc="495767188" ref="map"/>
+    <file name="index.css" crc="4219623403" ref="index"/>
+    <file name="chicago.css" crc="44794267" ref="chicago"/>
+    <file name="philadelphia.css" crc="341174995" ref="philadelphia"/>
+    <file name="page.css" crc="301546400" ref="page"/>
+  </folder>
+  <folder name="assets">
+    <file name="untitled-1.jpg" crc="4223001578" seo="true" mt="1556144508000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:philadelphia:map:chicago:page"/>
+    <file name="museutils.js" crc="340535759" ref="index:philadelphia:map:chicago:page"/>
+    <file name="whatinput.js" crc="86476730" ref="index:philadelphia:map:chicago:page"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:philadelphia:map:chicago:page"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:philadelphia:map:chicago:page"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:philadelphia:map:chicago:page"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled-1.jpg" crc="4223001578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled.png" crc="3884418067" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cloud 1.png" crc="418115435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cloud 2.png" crc="3863333625" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cloud 1509x286.png" crc="331474294" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cloud 3.png" crc="3874888676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="discount-10 copy.png" crc="530292141" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="discount-10.png" crc="339571248" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="paper plane.png" crc="223182924" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plane.png" crc="130833889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ballon.png" crc="198731713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="map.jpg" crc="492346797" seo="true" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="384280444" seo="true" mt="1556509123311" redirect="true"/>
+  <file name="philadelphia.html" crc="465160001" seo="true" mt="1556480210846" redirect="true"/>
+  <file name="map.html" crc="356951276" seo="true" mt="1556506581634" redirect="true"/>
+  <file name="chicago.html" crc="317184732" seo="true" mt="1556479321359" redirect="true"/>
+  <file name="page.html" crc="3973910705" seo="true" mt="1556505869962" redirect="true"/>
+</manifest>
